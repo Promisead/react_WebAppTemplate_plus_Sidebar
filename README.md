@@ -1,6 +1,6 @@
 # Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this project, I used the Context Api from react-icons, inbuilt useState hook and react-router-dom
+.
 
 ## Available Scripts
 
